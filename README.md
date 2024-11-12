@@ -1,4 +1,4 @@
-# Sloth or Pain au Chocolat: A Deep Learning Classification Model
+## Sloth or Pain au Chocolat: A Deep Learning Classification Model
 This project demonstrates the use of deep learning techniques to classify images into one of two categories: "Sloth" or "Pain au Chocolat". The model leverages transfer learning using a pre-trained `ResNet-18` model, with fine-tuning and feature extraction techniques to handle the binary image classification task.
 ![Sloth or Pain au Chocolat](./sloth_or_pastry_README.jpg)
 
